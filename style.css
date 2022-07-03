@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.first{
+    border: 1px solid black;
+    background-color: cadetblue;
+    width: 50%;
+    float: left;
+}
+.second{
+    width: 50%;
+    float: right;
+    border: 1px solid black;
+    background-color: burlywood;
+}
+.third{
+
+    clear: both;
+    width: 100%;
+    border: 1px solid black;
+    background-color: royalblue;
+}
